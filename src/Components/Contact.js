@@ -29,22 +29,14 @@ render(){
             Virtual: An inner exploration with me via zoom. The session will be between 1 and 2 hours.
 {<br />}{<br />}
 
-
-In Person: I offer three ways of connecting in person. 
-<li className = "session-types">An in person inner exploration.</li>
-<li className = "session-types">An inner exploration with integrated body work to clear energetic patterns.</li>
-<li className = "session-types">An inner exploration with Reiki</li>
-
 {<br />}
 
-            Current location: Ann Arbor, MI
-            {<br />}{<br />}
         
-            First session is a free half hour session over zoom or in person.
+            First session is a free half hour session over zoom.
+            {<br />}
             {<br />}After the first session, rates are:
             <ul>
-                <li>$80 for Inner Exploration in zoom or in person</li>
-                <li>$150 for Inner Exploration with Reiki or Massage</li>
+                <li>$100 for Inner Exploration in zoom</li>
             </ul>
 
             We do offer some sliding scale servicess, contact for more information.

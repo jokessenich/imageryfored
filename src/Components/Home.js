@@ -13,20 +13,20 @@ export default class Home extends React.Component {
                 <div className="top-half">
                 <h3 className="breathe">breathe</h3>
                 <NavBar></NavBar>
-                <Link to='/' className="entryheader">Inner Mythology</Link>
+                <Link to='/' className="entryheader">Imagery for ED</Link>
                 {//<p className='p-subheader'> Relax | Explore | Thank</p>
     }
                 </div>
 
                 <div className="bottom-half">
                     <p className="p-introduction">
-                Just as our feet move us through the outer world, our thoughts and emotions move us through our inner world.
+                    Everyone has a subconscious and a conscious mind. The subconscious mind is what keeps us alive, beats our heart, breaths air without us knowing, digests our food, and arouses us sexually. The conscious mind is the internal dialogue that we are aware of inside of our minds. 
+                    {<br />}{<br />}ED is a condition that is sometimes caused by an incongruence in the subconscious and conscious minds. Other times, ED can be caused by a negative reinforcement cycle (which feels like a negative spiral) between the conscious mind and subconscious mind.
                     {<br />}{<br />}
-                    Let us put our ear to the ground and listen, breathe with and learn to deeply love our inner world. 
+Interactive Guided Imagery is a technique that allows participants to dialogue with their subconscious mind and learn to work together with their subconscious. This technique is non-invasive and virtually no-risk. The introductory session is free. I welcome you to give it a try.
+
                     {<br />}{<br />}
-                    We aim not to fix or fight, but to move with love, understanding and intention.
-                    You are the only one who can bring peace to your inner world. Only then will you bring peace to the outer world. 
-                    {<br />}{<br />}
+
                     {<br />}{<br />}
                     {/* <Link to="about" className="page-link">More</Link> */}
                     </p>
